@@ -1,0 +1,28 @@
+Wir sind überall, auf der Erde,
+Auf der Erde, leuchtet ein Stern, leuchtet mein Stern
+Wir sind überall, auf der Erde
+Auf der Erde, leuchtet ein Stern, leuchtet mein Stern
+
+Leuchte mein Stern, auf jedem Hut
+In jedem Herz, in jedem Haus
+Leucht' roter Stern und gib mir Mut
+Leuchtet mein Stern weit hinaus
+
+Wir haben gedacht, auf der Erde
+Auf der Erde, uns zu vertrau'n,
+Nur uns zu trau'n
+Wir haben gedacht, uns die Erde
+Uns die Erde, wohnlich zu bau'n,
+Besser zu bau'n
+
+Leuchte mein Stern, auf jedem Hut
+In jedem Herz, in jedem Haus
+Leucht' roter Stern und gib mir Mut
+Leuchtet mein Stern weit hinaus
+
+Wir bleiben dabei, auf der Erde
+Auf der Erde, muss Frieden sein!
+Wir bleiben dabei, auf der Erde,
+Auf der Erde, muss Frieden sein!
+Wir bleiben dabei, auf der Erde,
+Auf der Erde, muss Frieden sein! - wird sein!

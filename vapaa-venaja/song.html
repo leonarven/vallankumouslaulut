@@ -1,0 +1,12 @@
+(Maailman raatajat, sorron kahleet pois!)
+Meitä keisarit ei enää hoivaa, eikä veriset julmuritkaan
+Tovereissamme meillä on voimaa vapauttamme puolustamaan.
+Me kahlehia kyllin oomme kantaneet,
+ja kaikki toverimme on vankityrmiin sortuneet.
+
+Meitä keisarit ei enää hoivaa, eikä veriset julmuritkaan
+Tovereissamme meillä on voimaa vapauttamme puolustamaan.
+
+Jo ääni vapauden kultahelminä helähtelee
+Sen tenho valtaa ja kahleet poistaa, kaikk' ansat julmain tyrannein
+Toverit kuulkaa: jo murtuu kahleet pois tieltä onnen, vapauden.

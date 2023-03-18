@@ -1,0 +1,23 @@
+Aamulla varhain kivääriin tartuin.
+Oi, bella ciao, bella ciao, bella ciao, ciao, ciao.
+:,: Aamulla varhain kivääriin tartuin, sen käänsin kohti sortajaa. :,:
+
+Käy partisaani nyt rinnalleni.
+Oi bella ciao, bella ciao, bella ciao, ciao, ciao.
+:,:  Käy partisaani nyt rinnalleni ja kohtaloni aavistan.:,:
+
+Kun surmaluodin, saan taistelussa.
+Oi bella ciao, bella ciao, bella ciao, ciao, ciao.
+:,:  Kun surmaluodin, saan taistelussa, toverit minut haudatkaa.:,:
+
+Sen haudan ylle, kauniina jääköön.
+Oi bella ciao, bella ciao, bella ciao, ciao, ciao.
+:,: Sen haudan ylle, kauniina jääköön vuoriston kukka kasvamaan.:,:
+
+Niin, että kansa voi vuoritiellä.
+Oi bella ciao, bella ciao, bella ciao, ciao, ciao.
+:,: Niin, että kansa voi vuoritiellä sen nähdä hiljaa hehkuvan.:,:
+
+Se kaunis kukka, on partisaanin.
+Oi bella ciao, bella ciao, bella ciao, ciao, ciao.
+:,: Se kaunis kukka, on partisaanin, vapauden vuoksi taistelleen.:,:

@@ -1,0 +1,39 @@
+Herra tuomari
+Olen rauhan ja aatteen mies
+Ja olen vihainen
+Tuhoamisesta
+Kansani maan
+Öljy palaa
+Vain tämän heille sanoi kerran
+Ken Saro-Wiwa
+
+
+Herra tuomari
+Kuinka uskalsi avata suunsa tuo mies
+Korjatkoon luunsa
+Tuollaisista puheista
+Sähkötuoli
+Tai giljotiini
+Tämän jälkeen ei saa elää
+Ken Saro-Wiwa
+
+
+Me olemme täällä kaikki historian tuomittavina
+Minä ja kollegani emme ole ainoita syytettyjä
+Myös Shell on täällä tuomiolla
+Ja tehdyt rikokset rangaistaan ansionsa mukaan
+Ja tehty rikos ansionsa mukaan
+
+
+Herra tuomari
+Kuinka uskalsi avata suunsa tuo mies
+Korjatkoon luunsa
+Tuollaisista puheista
+Sähkötuoli
+Tai giljotiini
+Tämän jälkeen ei saa elää
+Ken Saro-Wiwa
+
+
+Ken Saro-Wiwa, Ken Saro-Wiwa
+Ken Saro Wiwa, Ken Saro-Wiwa

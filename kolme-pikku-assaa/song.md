@@ -1,0 +1,40 @@
+<i>(sävel: Kolme pikkumiestä)</i>
+
+Kolme pikku ässää tärisee audeissaan
+he ajavat pakoon Helsingistä lakkomellakkaa
+syksy on ollut leuto ja lämmin muutenkin
+kun lakko porvarihallituksen nurkkaan pakotti
+
+Kolme pikku ässää oppii luottamaan
+niihin joiden kanssa he jakavat valtansa
+kesällä viisitoista hallitusohjelmaa
+loivat Timo Soini, Stubb, Juha Sipilä
+
+Miten monta suomalaista nälkään tapettiin
+kun tuet pantiin tauolle ja palkat laskettiin
+kolme pikku miestä vallassa jatkaa
+pian luokkataistelussa heidätkin karaistaan
+
+Kaksituhatluvulla oli valta porvarin
+ja leikkauspolitiikalla kansaa koeteltiin
+Ei ollut oikeutta työväenluokalla
+joten opettajat ja hoitajat pian lakkoon alkoivat.
+
+Ja porvaristo ryysti sitä kuohuviiniään
+ja veroja maksettiin prosentti ja joskus ei sitäkään
+Monta pikku Wahlroosia muuttaa Tukholmaan
+kun Suomi vaatii veroja ja byrokratiaa
+Kaksituhatluvulla kuseen jouduttiin
+kun oikeisto tahtoi laittaa Suomen rajat kii
+pikku sisulaisten puheenjohtaja
+on Immonen joka haaveilee rotusodasta
+
+Kolme pikku ässää väittivät tosissaan,
+että lakko on pirun keksintö, vie turmioon isänmaan.
+Proletariaatti tietää kuitenkin,
+että kapitalistin mielivalta se lakkoon pakotti.
+
+Kolme pikku ässää tärisee audeissaan
+Jo huhtikuussa he alkoivat leikkaamaan.
+Vielä loppuvuodesta yhä porvari hallitsee,
+mutta AKT:n hallussa ovat Suomen valtatiet

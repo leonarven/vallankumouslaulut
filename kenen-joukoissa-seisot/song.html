@@ -1,0 +1,17 @@
+Ei ystäväni,
+ei synny rakkaus maailmaan
+odottaessasi taivaan armoa,
+vallanpitäjien sääliä
+Ei ystäväni,
+niin kauan kuin leivästä
+jää reikä leipojan käteen
+jääköön rakkaudesta puhuminen pastorien houreiksi
+Pitäkööt Leijonat makeiskorinsa,
+puolueettomat humanistit korulauseensa
+Tätä vääryyttä vastaan ei taistella kukkasin
+Tätä verta ei pysäytä pehmeä myötätunto
+Nälkäisten vatsat eivät suudelmista täyty
+:,: Kenen joukoissa seisot, kenen lippua kannat
+Ei synny rakkautta ilman oikeutta
+ei synny oikeutta ilman taistelua
+ei taistelua ilman yhteistä rintamaa :,:

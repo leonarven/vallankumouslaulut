@@ -1,0 +1,17 @@
+En voi jäädä vierellesi, yöhön rientää täytyy mun
+Turhaan avaat uutimesi, usvaan tyystin piiloudun.
+Älä kysy, minkä tähden enää viipyä voi en.
+Öisen metsän kätköön lähden luokse partisaanien.
+Öisen metsän kätköön lähden luokse partisaanien.
+
+Kuu on noussut, jostain kuulla nyt voi koiran haukunnan.
+Sinun ei vain pidä luulla, että toista rakastan.
+Ehkä yö tai päivä koittaa, jolloin saavun takaisin
+Murhemielen onni voittaa, tervehdimme suudelmin.
+Murhemielen onni voittaa, tervehdimme suudelmin.
+
+Jos en palaa, pellollani touon kylvää joku muu.
+Maa saa voimaa ruumiistani, vilja nousee, tuleentuu.
+Joskus peltomaalle kulje, hyväillen tähkäpää
+kätes hellään lämpöön sulje - siinä jatkan elämää.
+Kätes lämpöön tähkä sulje - siinä jatkan elämää.

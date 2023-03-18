@@ -1,0 +1,21 @@
+Kautta laaksojen ja vuorten kulki partisaanein tie.
+Lyömään joukot vainolaisten,
+meren rantaan marssi vie.
+Lyömään joukot vainolaisten,
+meren rantaan marssi vie.
+
+Punaliput purppuraiset korkealla hulmuaa.
+Lähti sissieskadroonat, tulitaistelijat maan.
+Lähti sissieskadroonat, tulitaistelijat maan.
+
+Eikä maine päiväin näiden joudu koskaan unhoksiin.
+Taisto partisaanein näiden tien jo johti kaupunkiin.
+Taisto partisaanein näiden tien jo johti kaupunkiin.
+
+Mielessämme säilyy aina kuni tähti kirkkahin.
+Öiset tuimat taistot Spasskin, päivät Volotshajevskin.
+Öiset tuimat taistot Spasskin, päivät Volotshajevskin.
+
+Turma tuotiin valkoisille, atamaanit murskattiin.
+Tyynenmeren rantamille marssi uljas päätettiin.
+Tyynenmeren rantamille marssi uljas päätettiin

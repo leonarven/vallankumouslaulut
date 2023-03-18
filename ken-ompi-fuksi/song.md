@@ -1,0 +1,21 @@
+Ken ompi fuksi 17 ylös nouskohon
+Hän lasin käteen ottakoon
+Sen huulillensa nostakoon
+Juo pois, juo pois, juo pois, juo pois
+Juo herran tähden pois
+
+Ken ompi fuksi 16 ylös nouskohon
+Hän lasin käteen ottakoon
+Sen huulillensa nostakoon
+Juo pois, juo pois, juo pois, juo pois
+Juo herran tähden pois
+
+[toistetaan niin kauan kunnes kaikki,
+jotka ovat olleet fukseja, ovat nousseet ylös,
+jonka jälkeen lauletaan seuraava säkeistö]
+
+Ken ei oo fuksi ollutkaan ylös nouskohon
+Hän lasin käteen ottakoon
+Sen huulillensa nostakoon
+Juo pois, juo pois, juo pois, juo pois
+Juo herran tähden pois

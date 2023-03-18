@@ -1,0 +1,24 @@
+Pikku kakkosen posti
+Postilokero kolme neljä seitsemän
+Kolme kolme satayksi
+Tampere kymmenen
+Pikkukakkosen posti
+
+Eteläranta kymppi!
+EK:n mafia, hallitusta sanelee
+Orpo, Soini, Sipilä
+Hölmöinä kuuntelee!
+Eteläranta kymppi!
+
+Oikeistopolitiikka!
+Leikkaa köyhiltä, lisää tuloeroja
+Pakko ei sitä sanele
+Vaikka niin väitetään
+Oikeistopolitiikka!
+
+Tampere3
+Kansainvälist´ huippua,
+Otettiin mallii Aallosta.
+Tuloksena joku laiton
+Sekasikiö kumminkin
+Tampere3

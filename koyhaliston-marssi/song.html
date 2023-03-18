@@ -1,0 +1,28 @@
+1. Ken maasta hyisen hallan
+loi pellot viljavat,
+ken nosti tehdasvallan
+ja linnat korkeat,
+ken riemut rikkahille luo,
+vaan kyynelmaljan itse juo?
+Se joukko köyhälistön,
+työn raskaan raatajat.
+Se joukko köyhälistön,
+työn raskaan raatajat.
+
+2. Ken huomenesta varhain
+ain’ iltaan raataa saa,
+ken herkut laatii parhain
+ja vallat vaatettaa,
+ken muille onnen porras on,
+vaan itse koito, onneton?
+:,: Se joukko köyhälistön,
+työn raskaan raatajat. :,:
+
+3. On meidän maassa valta,
+jos liitto vahva on.
+Vapaaksi sorron alta
+joukkomme nouskohon!
+Eespäin kuin myrsky rynnätkää,
+pois orjamieli jättäkää,
+:,: niin voittaa köyhälistö,
+työn raskaan raatajat. :,:

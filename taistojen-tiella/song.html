@@ -1,0 +1,22 @@
+Eespäin, eespäin tiellä taistojen
+rinta rinnan astukaamme, siskot, veikot
+Soipi laulu meidän joukkojen, teitä taistoon kutsuen.
+
+Eespäin, eespäin alta sorron yön
+kaikki puutteen raskaan alle ahdistetut
+Niille, niille soipi laulu tää, jotka huokaa alla työn.
+
+Me käymme taisteluun puolesta ihmisoikeuden
+Ja kansan kärsineen me viemme onneen yhteiseen
+Jo kuivuu kyyneleet, soi suuret huomensävelet
+Kun hetki lyö, niin poistuu yö ja kunniassa on kansa ja työ.
+
+Niin monta, niin monta on tielle uupunut
+Niin monta, niin monta on taistoissa kaatunut
+Vaan lannistaa meitä ei mahti mainen saa
+Me rauhan lujan luomme, mi riidat karkoittaa.
+
+Siis veljiksi tulkaa nyt kansat kaikkein maan
+niin onnemme tiellä käy ruusutkin kukkimaan
+Pois puute, pois kurjuus, pois kaikki silloin jää
+Onnen orpo kansa jo nosta pystyyn pää!
