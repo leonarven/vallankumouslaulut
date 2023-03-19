@@ -15,8 +15,10 @@ with open( os.path.join( SOURCE_DIR, 'index.json' )) as f:
     index = json.loads( f.read() )
 
 for song in songs:
-
+        
     source_dir = os.path.join( SOURCE_DIR, song )      
+    
+    if not os.path.isdir( source_dir ): continue
 
     html_file = os.path.join( source_dir, 'song.html' )
     md_file   = os.path.join( source_dir, 'song.md' )
@@ -26,6 +28,9 @@ for song in songs:
 
     if song in index:
         meta = index[ song ]
+    else:
+        print( f'key { song } missing in index.json. Skipping!' ) 
+        continue
 
     if os.path.isfile( html_file ):
         with open( html_file, 'r' ) as f:

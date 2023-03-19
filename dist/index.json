@@ -1,20 +1,24 @@
 {
     "united-fruit": {
+        "num": 57,
         "title": "United Fruit",
         "author": "Agit Prop",
         "song_file": "united-fruit.html"
     },
     "tango-fasismin-ja-kapitalismin-suhteesta": {
+        "num": 56,
         "title": "Tango fasismin ja kapitalismin suhteesta",
         "author": null,
         "song_file": "tango-fasismin-ja-kapitalismin-suhteesta.html"
     },
     "savolainen-balladi": {
+        "num": 55,
         "title": "Savolainen balladi",
         "author": null,
         "song_file": "savolainen-balladi.html"
     },
     "veli-sisko": {
+        "num": 54,
         "title": "Veli, sisko",
         "author": null,
         "song_file": "veli-sisko.html"
@@ -74,6 +78,7 @@
         "num": 25,
         "title": "Suomi myyntiin",
         "author": null,
+        "subheading": "(S\u00e4vel: Suomen Keskusta r.p, san.T.Hiltunen)",
         "links": {},
         "song_file": "suomi-myyntiin.html"
     },
@@ -132,6 +137,7 @@
         "num": 30,
         "title": "Oikeuden jumalatar",
         "author": null,
+        "subheading": "(S\u00e4vel: Helsinki Shangri-La)",
         "links": {},
         "song_file": "oikeuden-jumalatar.html"
     },
@@ -150,6 +156,7 @@
         "song_file": "natalia.html"
     },
     "nuoruustango": {
+        "num": 58,
         "title": "Nuoruustango",
         "author": null,
         "links": {},
@@ -184,6 +191,7 @@
         "song_file": "varrella-virran.html"
     },
     "mina-soitan-harmonikkaa": {
+        "num": 59,
         "title": "Min\u00e4 soitan harmonikkaa",
         "author": null,
         "links": {},
@@ -197,6 +205,7 @@
         "song_file": "mina-suojelen-sinua-kaikelta.html"
     },
     "lenin-seta-asuu-venajalla": {
+        "num": 60,
         "title": "Lenin-set\u00e4 asuu Ven\u00e4j\u00e4ll\u00e4",
         "author": null,
         "links": {},
@@ -225,6 +234,7 @@
         "song_file": "partisaanivalssi.html"
     },
     "herrojen-kanssa-pellon-laidassa": {
+        "num": 61,
         "title": "Herrojen kanssa pellon laidassa",
         "author": null,
         "links": {},
@@ -245,6 +255,7 @@
         "song_file": "taistojen-tiella.html"
     },
     "wir-sind-uberall": {
+        "num": 62,
         "title": "Wir sind \u00fcberall",
         "author": null,
         "links": {},
@@ -260,6 +271,7 @@
     "oodi-vihervasemmistolaisuudelle": {
         "num": 34,
         "title": "Oodi vihervasemmistolaisuudelle",
+        "subheading": "(S\u00e4vel: Pikku-Matin auto)",
         "author": null,
         "links": {},
         "song_file": "oodi-vihervasemmistolaisuudelle.html"
@@ -286,12 +298,14 @@
         "song_file": "se-erityinen-tyowaen-risteily-kappale.html"
     },
     "aqua-vera": {
+        "num": 63,
         "title": "Aqua vera",
         "author": null,
         "links": {},
         "song_file": "aqua-vera.html"
     },
     "ranskassa-juodaan-viinia": {
+        "num": 64,
         "title": "Ranskassa juodaan viini\u00e4",
         "subheading": "S\u00e4vel: Euroviisu-tunnari",
         "author": null,
@@ -303,6 +317,7 @@
         "title": "ViVassa juodaan kiljua",
         "author": null,
         "links": {},
+        "subheading": "(S\u00e4vel: Oodi ilolle, san. Tampereen Viva ja T.Hiltunen)",
         "song_file": "vivassa-juodaan-kiljua.html"
     },
     "pikku-kakkosen-posti": {
@@ -337,6 +352,7 @@
     "nuoriso-valmis-on-maistelemaan": {
         "num": 27,
         "title": "Nuoriso valmis on maistelemaan",
+        "subheading": "(S\u00e4vel: Nuorison marssi, san. Milka Hanhela)",
         "author": null,
         "links": {},
         "song_file": "nuoriso-valmis-on-maistelemaan.html"
@@ -344,6 +360,7 @@
     "nalkaisen-vegaanin-taisteluhuuto": {
         "num": 28,
         "title": "N\u00e4lk\u00e4isen vegaanin taisteluhuuto",
+        "subheading": "(S\u00e4vel: Varshavjanka, san. KSVN)",
         "author": null,
         "links": {},
         "song_file": "nalkaisen-vegaanin-taisteluhuuto.html"
@@ -353,9 +370,11 @@
         "title": "Valkoinen cis-heteromies",
         "author": null,
         "links": {},
+        "subheading": "(S\u00e4vel: Levoton tuhkimo, san. Anna Lemstr\u00f6m)",
         "song_file": "valkoinen-cis-heteromies.html"
     },
     "ampukaa-komissaarit": {
+        "num": 65,
         "title": "Ampukaa komissaarit, nuo hullut koirat",
         "author": null,
         "links": {},
@@ -443,11 +462,5 @@
         "title": "Helsinki Shangri-La",
         "author": null,
         "song_file": "helsinki-shangri-la.html"
-    },
-    "bella-ciao-es": {
-        "title": "Bella Ciao",
-        "author": "anti-fascist resistance movement active in 1943-1945",
-        "links": {},
-        "song_file": "bella-ciao-es.html"
     }
 }
