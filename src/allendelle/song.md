@@ -4,13 +4,11 @@ Oopperamurhaajat, pienet Hitlerit
 Mitä ne tekivät oudolle linnulle
 Kunnian miehelle, Allendelle?
 
-
 Tappoivat tietysti CIA:n armosta
 ylijäämävaraston hienolla aseella
 Tappoivat palasen maailman sydäntä
 Näyttivät keltaiset hyeenan hampaat
 Ottivat paikkansa historiassa
-
 
 Mitä ne luulivat saavuttavansa
 Saivat otsaansa Kainin merkin
