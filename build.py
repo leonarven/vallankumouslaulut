@@ -96,7 +96,17 @@ for song in songs:
         meta['song_file'] = song + '.html';
         index[ song ] = meta;
 
-        
+        ## Konvertoitiin index.json meta.json'eiksi ###########
+        #meta_file = os.path.join( source_dir, 'meta.json' )
+        #with open( meta_file, "w" ) as f:
+        #    nmeta = meta.copy();
+        #    if "author" not in nmeta: nmeta['author'] = None
+        #    if "num" in nmeta: del nmeta["num"]
+        #    if "song_file" in nmeta: del nmeta["song_file"]
+        #    if "disabled" in nmeta: del nmeta["disabled"]
+        #    json.dump( nmeta, f, indent=4, sort_keys=False )
+        #######################################################
+
 # -------------
 
 index_file = os.path.join( OUTPUT_DIR, 'index.json' )
