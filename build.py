@@ -43,8 +43,16 @@ for song in songs:
 
     if output is not None:
 
-        # Koska halutaan sisällön rivittyvän ennustettavasti ja oletetaan sisältö muotoiltavan white-space'lla, niin voidaan korvata kaikki säkeiden välilyönnit &nbsp;:lla. Tällöin jäljelle myös jäävät HTML-entiteeteillä ohjatut välilyönnit, jotka on manuaalisesti asetettu
+        article_attributes = ""
 
+        if '&32;' in output:
+            print( f'Typo: &32; instead of &#32; in { song }' )
+            output = output.replace( "&32;", "&#32;" )
+
+        if '&#32;' in output:
+            # Koska halutaan sisällön rivittyvän ennustettavasti ja oletetaan sisältö muotoiltavan white-space'lla, niin voidaan korvata kaikki säkeiden välilyönnit &nbsp;:lla. Tällöin jäljelle myös jäävät HTML-entiteeteillä ohjatut välilyönnit, jotka on manuaalisesti asetettu
+            article_attributes += ' class="fixed-size"'
+        
         output = output.replace( " ", "&nbsp;" )
 
         # ---------
@@ -91,7 +99,7 @@ for song in songs:
         if len( heading ) > 0:
             output = f'<header>{ heading }</header>{ output }'
 
-        output = f'<article>{output}</article>'
+        output = f'<article{ article_attributes }>{output}</article>'
 
         out_file = os.path.join( OUTPUT_DIR, song + '.html' )
         with open( out_file, "w" ) as out_file:
