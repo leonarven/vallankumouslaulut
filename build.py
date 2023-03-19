@@ -2,18 +2,17 @@
 
 import json, markdown, os
 
-SOURCE_DIR = "./src/";
-OUTPUT_DIR = "./dist/";
+SOURCE_DIR = "./src/"
+OUTPUT_DIR = "./dist/"
 
 markdown.markdown('#Hi')
 
-songs = os.listdir( SOURCE_DIR );
+songs = os.listdir( SOURCE_DIR )
 
-os.popen( 'mkdir -p ' + OUTPUT_DIR );
+os.popen( 'mkdir -p ' + OUTPUT_DIR )
 
-index_file = open( os.path.join( SOURCE_DIR, 'index.json' ))
-index = json.loads( index_file.read());
-index_file.close()
+with open( os.path.join( SOURCE_DIR, 'index.json' )) as f:
+    index = json.loads( f.read() )
 
 for song in songs:
 
@@ -26,33 +25,36 @@ for song in songs:
     meta = {}
 
     if song in index:
-        meta = index[ song ];
+        meta = index[ song ]
 
     if os.path.isfile( html_file ):
-        file = open( html_file, 'r' )
-        output = file.read()
-        file.close();
+        with open( html_file, 'r' ) as f:
+            output = f.read()
 
     elif os.path.isfile( md_file ):
-        file = open( md_file, 'r' )
-        output = file.read()
-        file.close();
-        output = markdown.markdown( output )
+        with open( md_file, 'r' ) as f:
+            output = f.read()
+            output = markdown.markdown( output )
 
     if output is not None:
 
-        heading = ""
-        subheading = ""
+        # Koska halutaan sisällön rivittyvän ennustettavasti ja oletetaan sisältö muotoiltavan white-space'lla, niin voidaan korvata kaikki säkeiden välilyönnit &nbsp;:lla. Tällöin jäljelle myös jäävät HTML-entiteeteillä ohjatut välilyönnit, jotka on manuaalisesti asetettu
+
+        output = output.replace( " ", "&nbsp;" )
 
         # ---------
-
+        
         meta_file = os.path.join( source_dir, 'meta.json' )
      
         if os.path.isfile( meta_file ):
-            file = open( meta_file, 'r' )
-            meta.update( json.loads( file.read() ))
-            file.close();
+            with open( meta_file, 'r' ) as f:
+                meta.update( json.loads( f.read() ))
+        
+        # ---------
 
+        heading = ""
+        subheading = ""
+        
         if 'title' in meta and meta['title'] is not None:
             heading = meta['title']
 
@@ -93,8 +95,8 @@ for song in songs:
 
         # ----------
 
-        meta['song_file'] = song + '.html';
-        index[ song ] = meta;
+        meta['song_file'] = song + '.html'
+        index[ song ] = meta
 
         ## Konvertoitiin index.json meta.json'eiksi ###########
         #meta_file = os.path.join( source_dir, 'meta.json' )
