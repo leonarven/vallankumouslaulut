@@ -1,3 +1,5 @@
+#!/bin/python3
+
 import json, markdown, os
 
 SOURCE_DIR = "./src/";
@@ -85,19 +87,19 @@ for song in songs:
         output = f'<article>{output}</article>'
 
         out_file = os.path.join( OUTPUT_DIR, song + '.html' )
-        out_file = open( out_file, 'w' )
-        out_file.write( output )
-        out_file.close()
+        with open( out_file, "w" ) as out_file:
+            out_file.write( output )
+
 
         # ----------
 
         meta['song_file'] = song + '.html';
         index[ song ] = meta;
 
+        
 # -------------
 
 index_file = os.path.join( OUTPUT_DIR, 'index.json' )
 
 with open( index_file, "w") as index_file:
     json.dump( index, index_file, indent=4, sort_keys=False )
-
