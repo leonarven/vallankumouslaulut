@@ -21,7 +21,7 @@ for song in songs:
     md_file   = os.path.join( source_dir, 'song.md' )
 
     output = None
-    meta = None;
+    meta = {}
 
     if song in index:
         meta = index[ song ];
@@ -29,10 +29,12 @@ for song in songs:
     if os.path.isfile( html_file ):
         file = open( html_file, 'r' )
         output = file.read()
+        file.close();
 
     elif os.path.isfile( md_file ):
         file = open( md_file, 'r' )
         output = file.read()
+        file.close();
         output = markdown.markdown( output )
 
     if output is not None:
@@ -40,19 +42,31 @@ for song in songs:
         heading = ""
         subheading = ""
 
-        if meta is not None:
+        # ---------
 
-            if 'title' in meta and meta['title'] is not None:
-                heading = meta['title']
- 
-            if 'author' in meta and meta['author'] is not None:
-                heading = f'{ meta["author"] }{ "" if len(heading) == 0 else ": " }{ heading }'           
+        meta_file = os.path.join( source_dir, 'meta.json' )
+     
+        if os.path.isfile( meta_file ):
+            file = open( meta_file, 'r' )
+            meta.update( json.loads( file.read() ))
+            file.close();
 
-            if 'num' in meta and meta['num'] is not None:
-                heading = f'{ meta["num"] }. { heading }'
-            
-            if 'links' in meta:
-                pass
+        if 'title' in meta and meta['title'] is not None:
+            heading = meta['title']
+
+        if 'author' in meta and meta['author'] is not None:
+            heading = f'{ meta["author"] }{ "" if len(heading) == 0 else ": " }{ heading }'           
+
+        if 'num' in meta and meta['num'] is not None:
+            heading = f'{ meta["num"] }. { heading }'
+        
+        if 'links' in meta:
+            pass
+        
+        if 'subheading' in meta and meta['subheading'] is not None:
+            subheading = meta['subheading']
+
+        # ----------
 
         output = f'<section>{ output }</section>'
 
@@ -75,21 +89,12 @@ for song in songs:
         out_file.write( output )
         out_file.close()
 
-        # ---------
+        # ----------
 
-        meta_file = os.path.join( source_dir, 'meta.json' )
-     
-        if os.path.isfile( meta_file ):
-            file = open( meta_file, 'r' )
-            nmeta = json.loads( file.read() )
+        meta['song_file'] = song + '.html';
+        index[ song ] = meta;
 
-            if meta is None:
-                meta = nmeta
-            
-            else:
-                meta.update( nmeta );
-
-            index[ song ] = meta;
+# -------------
 
 index_file = os.path.join( OUTPUT_DIR, 'index.json' )
 
