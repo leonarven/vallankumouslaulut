@@ -1,5 +1,3 @@
-<i>(sävel: Levoton tuhkimo, san. Anna Lemström)</i>
-
 Juot ja katselet vieraisiin naisiin
 Salaa vilkaiset itseäsi peiliin
 Viti-valkoiset kasvot tuijottaa takaisin

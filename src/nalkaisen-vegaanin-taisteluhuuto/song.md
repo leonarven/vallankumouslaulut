@@ -1,5 +1,3 @@
-<i>(sävel: Varshavjanka, san. KSVN)</i>
-
 Sitsarikansalle särvintä suokaa,
 oikeudet eläinten mielessä on.
 Onni on maistella vegaaniruokaa,

@@ -1,5 +1,3 @@
-<i>(sävel: Oodi ilolle, san. Tampereen Viva ja T.Hiltunen)</i>
-
 Ranskassa juodaan viiniä,
 Saksassa olutta, Venäjällä vodkaa
 Suomessa juodaan kaikkea,

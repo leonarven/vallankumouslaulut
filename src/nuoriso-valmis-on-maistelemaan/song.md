@@ -1,5 +1,3 @@
-<i>(sävel: Nuorison marssi, san. Milka Hanhela)</i>
-
 Nuoriso valmis on maistelemaan
 puolesta sitsien vapauden
 viinat ei peljätä, ei gambinat

@@ -1,5 +1,3 @@
-<i>(säv. Suomen Keskusta r.p, san.T.Hiltunen)</i>
-
 Koulutuslupauskuvia,
 Äänestäjäin pettämistä
 Tosi kipeitä leikkauksia,

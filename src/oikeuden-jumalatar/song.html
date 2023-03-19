@@ -1,5 +1,3 @@
-<i>(Sävel: Helsinki Shangri-La)</i>
-
 Tämä meidän maailma on paras maailmoista
 Kuvitella et sä voisi parempaakaan toista
 Hura huh hah hei! Tässä parhaas maailmassa

@@ -1,5 +1,3 @@
-</i>(sävel: Pikku-Matin auto)</i>
-
 Hittihatit työnnetään Tammerkoskehen. X3
 Nyt on aika muutoksen!
 
