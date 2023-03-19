@@ -1,364 +1,185 @@
 {
 	"united-fruit": {
-		"title": "United Fruit",
-		"author": "Agit Prop"
 	},
 	"tango-fasismin-ja-kapitalismin-suhteesta": {
-		"title": "Tango fasismin ja kapitalismin suhteesta"
 	},
 	"savolainen-balladi": {
-		"title": "Savolainen balladi"
 	},
 	"veli-sisko": {
-		"title": "Veli, sisko"
 	},
 	"kenen-joukoissa-seisot": {
-		"title": "Kenen joukoissa seisot",
 		"num": 4
 	},
 	"oppimisen-ylistys": {
-		"title": "Oppimisen ylistys",
-		"author": "Bertol Brechtin runo vuodelta 1932",
-		"links": {
-			"Elävä arkisto: Agit-Prop, 1975" : "http://yle.fi/aihe/artikkeli/2007/04/30/agit-prop-oppimisen-ylistys"
-		},
 		"num": 7
 	},
 	"riistajan-lait": {
-		"title": "Riistäjän lait",
-		"links": {},
 		"num": 8
 	},
 	"kalliolle-kukkulalle": {
-		"title": "Kalliolle kukkulalle",
-		"author": null,
-		"links": {},
 		"num": 40
 	},
 	"balladi-toveri-viljasesta": {
-		"title": "Balladi toveri Viljasesta",
-		"author": null,
-		"links": {},
 		"num": 12
 	},
 	"vapaa-venaja": {
-		"title": "Vapaa Venäjä",
-		"author": null,
-		"links": {},
 		"num": 49
 	},
 	"kolme-pikku-assaa": {
 		"num": 24
 	},
 	"suomi-myyntiin": {
-		"title": "Suomi myyntiin",
-		"author": null,
-		"links": {},
 		"num": 25
 	},
 	"kansainvalinen": {
-		"title": "Kansainvälinen",
-		"author": null,
-		"links": {},
 		"num": 1
 	},
 	"the-internationale": {
-		"title": "The Internationale",
-		"author": null,
-		"links": {},
 		"num": 2
 	},
 	"punakaartin-marssi": {
-		"title": "Punakaartin marssi",
-		"author": null,
-		"links": {},
 		"num": 13
 	},
 	"nuorison-marssi": {
-		"title": "Nuorison marssi",
-		"author": null,
-		"links": {},
 		"num": 3
 	},
 	"kisallittaret": {
-		"title": "Kisällittäret",
-		"author": null,
-		"links": {},
 		"num": 5
 	},
 	"allendelle": {
-		"title": "Allendelle",
-		"author": null,
-		"links": {},
 		"num": 11
 	},
 	"bella-ciao": {
-		"title": "Bella Ciao",
-		"author" : "By anti-fascist resistance in Italy 1943-1945!",
-		"links" : {
-			"Youtube" : "https://www.youtube.com/watch?v=VS8GIqjPVHM"
-		},
 		"num": 14
 	},
 	"oikeuden-jumalatar": {
-		"title": "Oikeuden jumalatar",
-		"author": null,
-		"links": {},
 		"num": 30
 	},
 	"partisaanimarssi": {
-		"title": "Partisaanin marssi",
-		"author": null,
-		"links": {},
 		"num": 15
 	},
 	"natalia": {
-		"title": "Natalia ",
-		"author": null,
-		"links": {},
 		"num": 6
 	},
 	"nuoruustango": {
-		"title": "Nuoruustango",
-		"author": null,
-		"links": {},
-		"disabled": true
 	},
 	"hasta-siempre-comandante": {
-		"title": "Hasta siempre, Comandante",
-		"author": null,
-		"links": {},
 		"num": 16
 	},
 	"jos-rakastat": {
-		"title": "Jos rakastat",
-		"author": null,
-		"links": {},
 		"num": 42
 	},
 	"uralin-pihlaja": {
-		"title": "Uralin pihlaja",
-		"author": null,
-		"links": {},
 		"num": 43
 	},
 	"varrella-virran": {
-		"title": "Varrella virran",
-		"author": null,
-		"links": {},
 		"num": 44
 	},
 	"mina-soitan-harmonikkaa": {
-		"title": "Minä soitan harmonikkaa",
-		"author": null,
-		"links": {},
-		"num": null,
-		"disabled": true
 	},
 	"mina-suojelen-sinua-kaikelta": {
-		"title": "Minä suojelen sinua kaikelta",
-		"author": null,
-		"links": {},
 		"num": 47
 	},
 	"lenin-seta-asuu-venajalla": {
-		"title": "Lenin-setä asuu Venäjällä",
-		"author": null,
-		"links": {},
-		"disabled": true
 	},
 	"sikajuna-brysseliin": {
 		"num": 23
 	},
 	"warshawjanka": {
-		"title": "Warshawjanka",
-		"author": null,
-		"links": {},
 		"num": 17
 	},
 	"partisaanivalssi": {
-		"title": "Partisaanivalssi",
-		"author": null,
-		"links": {},
 		"num": 18
 	},
 	"herrojen-kanssa-pellon-laidassa": {
-		"title": "Herrojen kanssa pellon laidassa",
-		"author": null,
-		"links": {},
-		"disabled": true
 	},
 	"laulu-siirtotyolaisesta": {
-		"title": "Laulu siirtotyöläisestä",
-		"author": null,
-		"links": {},
 		"num": 19
 	},
 	"taistojen-tiella": {
-		"title": "Taistojen tiellä",
-		"author": null,
-		"links": {},
 		"num": 20
 	},
 	"wir-sind-uberall": {
-		"title": "Wir sind überall",
-		"author": null,
-		"links": {},
-		"disabled": true
 	},
 	"solidarity-forever": {
-		"title": "Solidarity forever",
-		"author": null,
-		"links": {},
 		"num": 41
 	},
 	"oodi-vihervasemmistolaisuudelle": {
-		"title": "Oodi vihervasemmistolaisuudelle",
-		"author": null,
-		"links": {},
 		"num": 34
 	},
 	"syntymapaivalaulu": {
-		"title": "Syntymäpäivälaulu",
-		"author": null,
-		"links": {},
 		"num": 35
 	},
 	"vapauden-kaiho": {
-		"title": "Vapauden kaiho",
-		"author": null,
-		"links": {},
 		"num": 9
 	},
 	"se-erityinen-tyowaen-risteily-kappale": {
-		"title": "Se Erityinen Työwäen Risteily-kappale",
-		"author": null,
-		"links": {},
 		"num": 37
 	},
 	"aqua-vera": {
-		"title": "Aqua vera",
-		"author": null,
-		"links": {},
-		"disabled": true
 	},
 	"ranskassa-juodaan-viinia": {
 	},
 	"vivassa-juodaan-kiljua": {
-		"title": "ViVassa juodaan kiljua",
-		"author": null,
-		"links": {},
 		"num": 36
 	},
 	"pikku-kakkosen-posti": {
-		"title": "Pikku kakkosen posti",
-		"author": null,
-		"links": {},
 		"num": 32
 	},
 	"rivakka-turkulainen-juomalaulu": {
-		"title": "Rivakka turkulainen juomalaulu",
-		"author": null,
-		"links": {},
 		"num": 33
 	},
 	"ken-ompi-fuksi": {
-		"title": "Fuksilaulu",
-		"author": null,
-		"links": {},
 		"num": 31
 	},
 	"ylos-punakapina-ja-alas-hallitus": {
 		"num": 26
 	},
 	"nuoriso-valmis-on-maistelemaan": {
-		"title": "Nuoriso valmis on maistelemaan",
-		"author": null,
-		"links": {},
 		"num": 27
 	},
 	"nalkaisen-vegaanin-taisteluhuuto": {
-		"title": "Nälkäisen vegaanin taisteluhuuto",
-		"author": null,
-		"links": {},
 		"num": 28
 	},
 	"valkoinen-cis-heteromies": {
-		"title": "Valkoinen cis-heteromies",
-		"author": null,
-		"links": {},
 		"num": 29
 	},
 	"ampukaa-komissaarit": {
-		"title": "Ampukaa komissaarit, nuo hullut koirat",
-		"author": null,
-		"links": {},
-		"disabled": true
 	},
 	"volga": {
-		"title": "Volga",
-		"author": null,
-		"links": {},
 		"num": 48
 	},
 	"toveri-mita-odotat": {
-		"title": "Toveri, mitä odotat?",
-		"author": null,
-		"links": {},
 		"num": 21
 	},
 	"koyhaliston-marssi": {
-		"title": "Köyhälistön marssi",
-		"author": null,
-		"links": {},
 		"num": 22
 	},
 	"working-class-hero": {
-		"title": "Working class hero ",
-		"author": null,
-		"links": {},
 		"num": 45
 	},
 	"ken-saro-wiva-on-kuollut": {
-		"title": "Ken Saro Wiva on kuollut",
-		"author": null,
-		"links": {},
 		"num": 46
 	},
 	"loldiers-anthem": {
-		"title": "Emme suostu pelkäämään",
-		"author": "Paleface",
-		"links": {
-			"Youtube" : "https://www.youtube.com/watch?v=-0lht7PZLac"
-		},
 		"num": 38
 	},
 	"haistakaa-paska-koko-valtiovalta": {
-		"title": "haistakaa paska koko valtiovalta",
-		"author": "Irwin",
 		"num": 39
 	},
 	"esko-kulonen": {
-		"title": "Esko Kulonen",
-		"author": null,
-		"links": {},
 		"num": 10
 	},
 	"nalkamaan-laulu": {
-		"title": "Nälkämaan laulu",
-		"author": null,
-		"links": {},
 		"num": 50
 	},
 	"kolme-pikku-miesta":{
-		"title":"Kolme pikku miestä",
 		"num": 51
 	},
 	"juo-kaljas-laulellen": {
 		"num": 52
 	},
 	"helsinki-shangri-la": {
-		"title": "Helsinki Shangri-La", 
 		"num": 53
 	}
 }
