@@ -48,9 +48,6 @@
 		"num": 49
 	},
 	"kolme-pikku-assaa": {
-		"title": "Kolme pikku ässää",
-		"author": null,
-		"links": {},
 		"num": 24
 	},
 	"suomi-myyntiin": {
@@ -171,9 +168,6 @@
 		"disabled": true
 	},
 	"sikajuna-brysseliin": {
-		"title": "Sikajuna Brysseliin",
-		"author": null,
-		"links": {},
 		"num": 23
 	},
 	"warshawjanka": {
@@ -249,11 +243,6 @@
 		"disabled": true
 	},
 	"ranskassa-juodaan-viinia": {
-		"title": "Ranskassa juodaan viiniä",
-		"author": null,
-		"links": {},
-		"num": null,
-		"disabled": true
 	},
 	"vivassa-juodaan-kiljua": {
 		"title": "ViVassa juodaan kiljua",
@@ -280,9 +269,6 @@
 		"num": 31
 	},
 	"ylos-punakapina-ja-alas-hallitus": {
-		"title": "Ylös punakapina ja alas hallitus",
-		"author": null,
-		"links": {},
 		"num": 26
 	},
 	"nuoriso-valmis-on-maistelemaan": {
@@ -369,7 +355,6 @@
 		"num": 51
 	},
 	"juo-kaljas-laulellen": {
-		"title": "Juo kaljas laulellen",
 		"num": 52
 	},
 	"helsinki-shangri-la": {

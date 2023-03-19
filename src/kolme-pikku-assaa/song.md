@@ -1,5 +1,3 @@
-<i>(sävel: Kolme pikkumiestä)</i>
-
 Kolme pikku ässää tärisee audeissaan
 he ajavat pakoon Helsingistä lakkomellakkaa
 syksy on ollut leuto ja lämmin muutenkin

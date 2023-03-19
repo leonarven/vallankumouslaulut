@@ -1,5 +1,3 @@
-<i>(sävel: Pikku-Matin auto)</i>
-
 Poliisi ja armeija on lakkoon ruvennut...x3
 nyt on aika vallankumouksen!
 

@@ -1,5 +1,3 @@
-(mel. Tee työtäs laulellen)
-
 Juo kaljas laulellen (vihellys)
 niin illan puuhat luistavat
 taas niinkuin leikiten.

@@ -1,5 +1,3 @@
-<h2>(Sävel: Euroviisu-tunnari)</h2>
-
 Ranskassa juodaan viiniä,
 Saksassa olutta, Venäjällä vodkaa.
 Suomessa juodaan kaikkea,

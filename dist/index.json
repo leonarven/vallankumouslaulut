@@ -1,20 +1,25 @@
 {
     "united-fruit": {
         "title": "United Fruit",
-        "author": "Agit Prop"
+        "author": "Agit Prop",
+        "song_file": "united-fruit.html"
     },
     "tango-fasismin-ja-kapitalismin-suhteesta": {
-        "title": "Tango fasismin ja kapitalismin suhteesta"
+        "title": "Tango fasismin ja kapitalismin suhteesta",
+        "song_file": "tango-fasismin-ja-kapitalismin-suhteesta.html"
     },
     "savolainen-balladi": {
-        "title": "Savolainen balladi"
+        "title": "Savolainen balladi",
+        "song_file": "savolainen-balladi.html"
     },
     "veli-sisko": {
-        "title": "Veli, sisko"
+        "title": "Veli, sisko",
+        "song_file": "veli-sisko.html"
     },
     "kenen-joukoissa-seisot": {
         "title": "Kenen joukoissa seisot",
-        "num": 4
+        "num": 4,
+        "song_file": "kenen-joukoissa-seisot.html"
     },
     "oppimisen-ylistys": {
         "title": "Oppimisen ylistys",
@@ -22,78 +27,92 @@
         "links": {
             "El\u00e4v\u00e4 arkisto: Agit-Prop, 1975": "http://yle.fi/aihe/artikkeli/2007/04/30/agit-prop-oppimisen-ylistys"
         },
-        "num": 7
+        "num": 7,
+        "song_file": "oppimisen-ylistys.html"
     },
     "riistajan-lait": {
         "title": "Riist\u00e4j\u00e4n lait",
         "links": {},
-        "num": 8
+        "num": 8,
+        "song_file": "riistajan-lait.html"
     },
     "kalliolle-kukkulalle": {
         "title": "Kalliolle kukkulalle",
         "author": null,
         "links": {},
-        "num": 40
+        "num": 40,
+        "song_file": "kalliolle-kukkulalle.html"
     },
     "balladi-toveri-viljasesta": {
         "title": "Balladi toveri Viljasesta",
         "author": null,
         "links": {},
-        "num": 12
+        "num": 12,
+        "song_file": "balladi-toveri-viljasesta.html"
     },
     "vapaa-venaja": {
         "title": "Vapaa Ven\u00e4j\u00e4",
         "author": null,
         "links": {},
-        "num": 49
+        "num": 49,
+        "song_file": "vapaa-venaja.html"
     },
     "kolme-pikku-assaa": {
+        "num": 24,
         "title": "Kolme pikku \u00e4ss\u00e4\u00e4",
         "author": null,
         "links": {},
-        "num": 24
+        "subheading": "(S\u00e4vel: Kolme pikkumiest\u00e4)",
+        "song_file": "kolme-pikku-assaa.html"
     },
     "suomi-myyntiin": {
         "title": "Suomi myyntiin",
         "author": null,
         "links": {},
-        "num": 25
+        "num": 25,
+        "song_file": "suomi-myyntiin.html"
     },
     "kansainvalinen": {
         "title": "Kansainv\u00e4linen",
         "author": null,
         "links": {},
-        "num": 1
+        "num": 1,
+        "song_file": "kansainvalinen.html"
     },
     "the-internationale": {
         "title": "The Internationale",
         "author": null,
         "links": {},
-        "num": 2
+        "num": 2,
+        "song_file": "the-internationale.html"
     },
     "punakaartin-marssi": {
         "title": "Punakaartin marssi",
         "author": null,
         "links": {},
-        "num": 13
+        "num": 13,
+        "song_file": "punakaartin-marssi.html"
     },
     "nuorison-marssi": {
         "title": "Nuorison marssi",
         "author": null,
         "links": {},
-        "num": 3
+        "num": 3,
+        "song_file": "nuorison-marssi.html"
     },
     "kisallittaret": {
         "title": "Kis\u00e4llitt\u00e4ret",
         "author": null,
         "links": {},
-        "num": 5
+        "num": 5,
+        "song_file": "kisallittaret.html"
     },
     "allendelle": {
         "title": "Allendelle",
         "author": null,
         "links": {},
-        "num": 11
+        "num": 11,
+        "song_file": "allendelle.html"
     },
     "bella-ciao": {
         "title": "Bella Ciao",
@@ -101,243 +120,285 @@
         "links": {
             "Youtube": "https://www.youtube.com/watch?v=VS8GIqjPVHM"
         },
-        "num": 14
+        "num": 14,
+        "song_file": "bella-ciao.html"
     },
     "oikeuden-jumalatar": {
         "title": "Oikeuden jumalatar",
         "author": null,
         "links": {},
-        "num": 30
+        "num": 30,
+        "song_file": "oikeuden-jumalatar.html"
     },
     "partisaanimarssi": {
         "title": "Partisaanin marssi",
         "author": null,
         "links": {},
-        "num": 15
+        "num": 15,
+        "song_file": "partisaanimarssi.html"
     },
     "natalia": {
         "title": "Natalia ",
         "author": null,
         "links": {},
-        "num": 6
+        "num": 6,
+        "song_file": "natalia.html"
     },
     "nuoruustango": {
         "title": "Nuoruustango",
         "author": null,
         "links": {},
-        "disabled": true
+        "disabled": true,
+        "song_file": "nuoruustango.html"
     },
     "hasta-siempre-comandante": {
         "title": "Hasta siempre, Comandante",
         "author": null,
         "links": {},
-        "num": 16
+        "num": 16,
+        "song_file": "hasta-siempre-comandante.html"
     },
     "jos-rakastat": {
         "title": "Jos rakastat",
         "author": null,
         "links": {},
-        "num": 42
+        "num": 42,
+        "song_file": "jos-rakastat.html"
     },
     "uralin-pihlaja": {
         "title": "Uralin pihlaja",
         "author": null,
         "links": {},
-        "num": 43
+        "num": 43,
+        "song_file": "uralin-pihlaja.html"
     },
     "varrella-virran": {
         "title": "Varrella virran",
         "author": null,
         "links": {},
-        "num": 44
+        "num": 44,
+        "song_file": "varrella-virran.html"
     },
     "mina-soitan-harmonikkaa": {
         "title": "Min\u00e4 soitan harmonikkaa",
         "author": null,
         "links": {},
         "num": null,
-        "disabled": true
+        "disabled": true,
+        "song_file": "mina-soitan-harmonikkaa.html"
     },
     "mina-suojelen-sinua-kaikelta": {
         "title": "Min\u00e4 suojelen sinua kaikelta",
         "author": null,
         "links": {},
-        "num": 47
+        "num": 47,
+        "song_file": "mina-suojelen-sinua-kaikelta.html"
     },
     "lenin-seta-asuu-venajalla": {
         "title": "Lenin-set\u00e4 asuu Ven\u00e4j\u00e4ll\u00e4",
         "author": null,
         "links": {},
-        "disabled": true
+        "disabled": true,
+        "song_file": "lenin-seta-asuu-venajalla.html"
     },
     "sikajuna-brysseliin": {
+        "num": 23,
         "title": "Sikajuna Brysseliin",
         "author": null,
         "links": {},
-        "num": 23
+        "subheading": "(S\u00e4v. Pikajuna Meksikoon)",
+        "song_file": "sikajuna-brysseliin.html"
     },
     "warshawjanka": {
         "title": "Warshawjanka",
         "author": null,
         "links": {},
-        "num": 17
+        "num": 17,
+        "song_file": "warshawjanka.html"
     },
     "partisaanivalssi": {
         "title": "Partisaanivalssi",
         "author": null,
         "links": {},
-        "num": 18
+        "num": 18,
+        "song_file": "partisaanivalssi.html"
     },
     "herrojen-kanssa-pellon-laidassa": {
         "title": "Herrojen kanssa pellon laidassa",
         "author": null,
         "links": {},
-        "disabled": true
+        "disabled": true,
+        "song_file": "herrojen-kanssa-pellon-laidassa.html"
     },
     "laulu-siirtotyolaisesta": {
         "title": "Laulu siirtoty\u00f6l\u00e4isest\u00e4",
         "author": null,
         "links": {},
-        "num": 19
+        "num": 19,
+        "song_file": "laulu-siirtotyolaisesta.html"
     },
     "taistojen-tiella": {
         "title": "Taistojen tiell\u00e4",
         "author": null,
         "links": {},
-        "num": 20
+        "num": 20,
+        "song_file": "taistojen-tiella.html"
     },
     "wir-sind-uberall": {
         "title": "Wir sind \u00fcberall",
         "author": null,
         "links": {},
-        "disabled": true
+        "disabled": true,
+        "song_file": "wir-sind-uberall.html"
     },
     "solidarity-forever": {
         "title": "Solidarity forever",
         "author": null,
         "links": {},
-        "num": 41
+        "num": 41,
+        "song_file": "solidarity-forever.html"
     },
     "oodi-vihervasemmistolaisuudelle": {
         "title": "Oodi vihervasemmistolaisuudelle",
         "author": null,
         "links": {},
-        "num": 34
+        "num": 34,
+        "song_file": "oodi-vihervasemmistolaisuudelle.html"
     },
     "syntymapaivalaulu": {
         "title": "Syntym\u00e4p\u00e4iv\u00e4laulu",
         "author": null,
         "links": {},
-        "num": 35
+        "num": 35,
+        "song_file": "syntymapaivalaulu.html"
     },
     "vapauden-kaiho": {
         "title": "Vapauden kaiho",
         "author": null,
         "links": {},
-        "num": 9
+        "num": 9,
+        "song_file": "vapauden-kaiho.html"
     },
     "se-erityinen-tyowaen-risteily-kappale": {
         "title": "Se Erityinen Ty\u00f6w\u00e4en Risteily-kappale",
         "author": null,
         "links": {},
-        "num": 37
+        "num": 37,
+        "song_file": "se-erityinen-tyowaen-risteily-kappale.html"
     },
     "aqua-vera": {
         "title": "Aqua vera",
         "author": null,
         "links": {},
-        "disabled": true
+        "disabled": true,
+        "song_file": "aqua-vera.html"
     },
     "ranskassa-juodaan-viinia": {
         "title": "Ranskassa juodaan viini\u00e4",
+        "subheading": "S\u00e4vel: Euroviisu-tunnari",
         "author": null,
         "links": {},
-        "num": null,
-        "disabled": true
+        "disabled": true,
+        "song_file": "ranskassa-juodaan-viinia.html"
     },
     "vivassa-juodaan-kiljua": {
         "title": "ViVassa juodaan kiljua",
         "author": null,
         "links": {},
-        "num": 36
+        "num": 36,
+        "song_file": "vivassa-juodaan-kiljua.html"
     },
     "pikku-kakkosen-posti": {
         "title": "Pikku kakkosen posti",
         "author": null,
         "links": {},
-        "num": 32
+        "num": 32,
+        "song_file": "pikku-kakkosen-posti.html"
     },
     "rivakka-turkulainen-juomalaulu": {
         "title": "Rivakka turkulainen juomalaulu",
         "author": null,
         "links": {},
-        "num": 33
+        "num": 33,
+        "song_file": "rivakka-turkulainen-juomalaulu.html"
     },
     "ken-ompi-fuksi": {
         "title": "Fuksilaulu",
         "author": null,
         "links": {},
-        "num": 31
+        "num": 31,
+        "song_file": "ken-ompi-fuksi.html"
     },
     "ylos-punakapina-ja-alas-hallitus": {
+        "num": 26,
         "title": "Yl\u00f6s punakapina ja alas hallitus",
         "author": null,
         "links": {},
-        "num": 26
+        "subheading": "(S\u00e4vel: Pikku-Matin auto)",
+        "song_file": "ylos-punakapina-ja-alas-hallitus.html"
     },
     "nuoriso-valmis-on-maistelemaan": {
         "title": "Nuoriso valmis on maistelemaan",
         "author": null,
         "links": {},
-        "num": 27
+        "num": 27,
+        "song_file": "nuoriso-valmis-on-maistelemaan.html"
     },
     "nalkaisen-vegaanin-taisteluhuuto": {
         "title": "N\u00e4lk\u00e4isen vegaanin taisteluhuuto",
         "author": null,
         "links": {},
-        "num": 28
+        "num": 28,
+        "song_file": "nalkaisen-vegaanin-taisteluhuuto.html"
     },
     "valkoinen-cis-heteromies": {
         "title": "Valkoinen cis-heteromies",
         "author": null,
         "links": {},
-        "num": 29
+        "num": 29,
+        "song_file": "valkoinen-cis-heteromies.html"
     },
     "ampukaa-komissaarit": {
         "title": "Ampukaa komissaarit, nuo hullut koirat",
         "author": null,
         "links": {},
-        "disabled": true
+        "disabled": true,
+        "song_file": "ampukaa-komissaarit.html"
     },
     "volga": {
         "title": "Volga",
         "author": null,
         "links": {},
-        "num": 48
+        "num": 48,
+        "song_file": "volga.html"
     },
     "toveri-mita-odotat": {
         "title": "Toveri, mit\u00e4 odotat?",
         "author": null,
         "links": {},
-        "num": 21
+        "num": 21,
+        "song_file": "toveri-mita-odotat.html"
     },
     "koyhaliston-marssi": {
         "title": "K\u00f6yh\u00e4list\u00f6n marssi",
         "author": null,
         "links": {},
-        "num": 22
+        "num": 22,
+        "song_file": "koyhaliston-marssi.html"
     },
     "working-class-hero": {
         "title": "Working class hero ",
         "author": null,
         "links": {},
-        "num": 45
+        "num": 45,
+        "song_file": "working-class-hero.html"
     },
     "ken-saro-wiva-on-kuollut": {
         "title": "Ken Saro Wiva on kuollut",
         "author": null,
         "links": {},
-        "num": 46
+        "num": 46,
+        "song_file": "ken-saro-wiva-on-kuollut.html"
     },
     "loldiers-anthem": {
         "title": "Emme suostu pelk\u00e4\u00e4m\u00e4\u00e4n",
@@ -345,40 +406,49 @@
         "links": {
             "Youtube": "https://www.youtube.com/watch?v=-0lht7PZLac"
         },
-        "num": 38
+        "num": 38,
+        "song_file": "loldiers-anthem.html"
     },
     "haistakaa-paska-koko-valtiovalta": {
         "title": "haistakaa paska koko valtiovalta",
         "author": "Irwin",
-        "num": 39
+        "num": 39,
+        "song_file": "haistakaa-paska-koko-valtiovalta.html"
     },
     "esko-kulonen": {
         "title": "Esko Kulonen",
         "author": null,
         "links": {},
-        "num": 10
+        "num": 10,
+        "song_file": "esko-kulonen.html"
     },
     "nalkamaan-laulu": {
         "title": "N\u00e4lk\u00e4maan laulu",
         "author": null,
         "links": {},
-        "num": 50
+        "num": 50,
+        "song_file": "nalkamaan-laulu.html"
     },
     "kolme-pikku-miesta": {
         "title": "Kolme pikku miest\u00e4",
-        "num": 51
+        "num": 51,
+        "song_file": "kolme-pikku-miesta.html"
     },
     "juo-kaljas-laulellen": {
+        "num": 52,
         "title": "Juo kaljas laulellen",
-        "num": 52
+        "subheading": "(S\u00e4vel: Tee ty\u00f6t\u00e4s laulellen)",
+        "song_file": "juo-kaljas-laulellen.html"
     },
     "helsinki-shangri-la": {
         "title": "Helsinki Shangri-La",
-        "num": 53
+        "num": 53,
+        "song_file": "helsinki-shangri-la.html"
     },
     "bella-ciao-es": {
         "title": "Bella Ciao",
         "author": "anti-fascist resistance movement active in 1943-1945",
-        "links": {}
+        "links": {},
+        "song_file": "bella-ciao-es.html"
     }
 }

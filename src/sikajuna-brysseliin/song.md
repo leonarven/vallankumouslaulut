@@ -1,5 +1,3 @@
-<i>(Säv. Pikajuna Meksikoon)</i>
-
 Sikajuna Brysseliin kiitää suoraan helvettiin
 sammutetuin lyhdyin EEC:hen pyyhältää.
 Natsihurtat ulvahtaa suurpääoma tukenaan
