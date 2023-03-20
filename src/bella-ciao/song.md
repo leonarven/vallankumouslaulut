@@ -1,23 +1,23 @@
-Aamulla varhain kivääriin tartuin.
-Oi, bella ciao, bella ciao, bella ciao, ciao, ciao.
-:,: Aamulla varhain kivääriin tartuin, sen käänsin kohti sortajaa. :,:
+Aamulla varhain&#32;kivääriin tartuin.
+Oi bella ciao,&#32;bella ciao,&#32;bella ciao, ciao, ciao.
+:,: Aamulla varhain&#32;kivääriin tartuin,&#32;sen käänsin kohti sortajaa. :,:
 
-Käy partisaani nyt rinnalleni.
-Oi bella ciao, bella ciao, bella ciao, ciao, ciao.
-:,:  Käy partisaani nyt rinnalleni ja kohtaloni aavistan.:,:
+Käy partisaani&#32;nyt rinnalleni.
+Oi bella ciao,&#32;bella ciao,&#32;bella ciao, ciao, ciao.
+:,:  Käy partisaani&#32;nyt rinnalleni&#32;ja kohtaloni aavistan. :,:
 
-Kun surmaluodin, saan taistelussa.
-Oi bella ciao, bella ciao, bella ciao, ciao, ciao.
-:,:  Kun surmaluodin, saan taistelussa, toverit minut haudatkaa.:,:
+Kun surmaluodin,&#32;saan taistelussa.
+Oi bella ciao,&#32;bella ciao,&#32;bella ciao, ciao, ciao.
+:,:  Kun surmaluodin,&#32;saan taistelussa,&#32;toverit minut haudatkaa. :,:
 
-Sen haudan ylle, kauniina jääköön.
-Oi bella ciao, bella ciao, bella ciao, ciao, ciao.
-:,: Sen haudan ylle, kauniina jääköön vuoriston kukka kasvamaan.:,:
+Sen haudan ylle,&#32;kauniina jääköön.
+Oi bella ciao,&#32;bella ciao,&#32;bella ciao, ciao, ciao.
+:,: Sen haudan ylle,&#32;kauniina jääköön&#32;vuoriston kukka kasvamaan. :,:
 
-Niin, että kansa voi vuoritiellä.
-Oi bella ciao, bella ciao, bella ciao, ciao, ciao.
-:,: Niin, että kansa voi vuoritiellä sen nähdä hiljaa hehkuvan.:,:
+Niin, että kansa&#32;voi vuoritiellä.
+Oi bella ciao,&#32;bella ciao,&#32;bella ciao, ciao, ciao.
+:,: Niin, että kansa&#32;voi vuoritiellä&#32;sen nähdä hiljaa hehkuvan. :,:
 
-Se kaunis kukka, on partisaanin.
-Oi bella ciao, bella ciao, bella ciao, ciao, ciao.
-:,: Se kaunis kukka, on partisaanin, vapauden vuoksi taistelleen.:,:
+Se kaunis kukka,&#32;on partisaanin.
+Oi bella ciao,&#32;bella ciao,&#32;bella ciao, ciao, ciao.
+:,: Se kaunis kukka,&#32;on partisaanin,&#32;vapauden vuoksi taistelleen. :,:
