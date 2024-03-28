@@ -1,197 +1,206 @@
 {
-	"united-fruit": {
-		"num": 57
-	},
-	"tango-fasismin-ja-kapitalismin-suhteesta": {
-		"num": 56
-	},
-	"savolainen-balladi": {
-		"num": 55
-	},
-	"veli-sisko": {
-		"num": 54
-	},
-	"kenen-joukoissa-seisot": {
-		"num": 4
-	},
-	"oppimisen-ylistys": {
-		"num": 7
-	},
-	"riistajan-lait": {
-		"num": 8
-	},
-	"kalliolle-kukkulalle": {
-		"num": 40
-	},
-	"balladi-toveri-viljasesta": {
-		"num": 12
-	},
-	"vapaa-venaja": {
-		"num": 49
-	},
-	"kolme-pikku-assaa": {
-		"num": 24
-	},
-	"suomi-myyntiin": {
-		"num": 25
-	},
-	"kansainvalinen": {
-		"num": 1
-	},
-	"the-internationale": {
-		"num": 2
-	},
-	"punakaartin-marssi": {
-		"num": 13
-	},
-	"nuorison-marssi": {
-		"num": 3
-	},
-	"kisallittaret": {
-		"num": 5
-	},
-	"allendelle": {
-		"num": 11
-	},
-	"bella-ciao": {
-		"num": 14
-	},
-	"oikeuden-jumalatar": {
-		"num": 30
-	},
-	"partisaanimarssi": {
-		"num": 15
-	},
-	"natalia": {
-		"num": 6
-	},
-	"nuoruustango": {
-		"num": 58
-	},
-	"hasta-siempre-comandante": {
-		"num": 16
-	},
-	"jos-rakastat": {
-		"num": 42
-	},
-	"uralin-pihlaja": {
-		"num": 43
-	},
-	"varrella-virran": {
-		"num": 44
-	},
-	"mina-soitan-harmonikkaa": {
-		"num": 59
-	},
-	"mina-suojelen-sinua-kaikelta": {
-		"num": 47
-	},
-	"lenin-seta-asuu-venajalla": {
-		"num": 60
-	},
-	"sikajuna-brysseliin": {
-		"num": 23
-	},
-	"warshawjanka": {
-		"num": 17
-	},
-	"partisaanivalssi": {
-		"num": 18
-	},
-	"herrojen-kanssa-pellon-laidassa": {
-		"num": 61
-	},
-	"laulu-siirtotyolaisesta": {
-		"num": 19
-	},
-	"taistojen-tiella": {
-		"num": 20
-	},
-	"wir-sind-uberall": {
-		"num": 62
-	},
-	"solidarity-forever": {
-		"num": 41
-	},
-	"oodi-vihervasemmistolaisuudelle": {
-		"num": 34
-	},
-	"syntymapaivalaulu": {
-		"num": 35
-	},
-	"vapauden-kaiho": {
-		"num": 9
-	},
-	"se-erityinen-tyowaen-risteily-kappale": {
-		"num": 37
-	},
-	"aqua-vera": {
-		"num": 63
-	},
-	"ranskassa-juodaan-viinia": {
-		"num": 64
-	},
-	"vivassa-juodaan-kiljua": {
-		"num": 36
-	},
-	"pikku-kakkosen-posti": {
-		"num": 32
-	},
-	"rivakka-turkulainen-juomalaulu": {
-		"num": 33
-	},
-	"ken-ompi-fuksi": {
-		"num": 31
-	},
-	"ylos-punakapina-ja-alas-hallitus": {
-		"num": 26
-	},
-	"nuoriso-valmis-on-maistelemaan": {
-		"num": 27
-	},
-	"nalkaisen-vegaanin-taisteluhuuto": {
-		"num": 28
-	},
-	"valkoinen-cis-heteromies": {
-		"num": 29
-	},
-	"ampukaa-komissaarit": {
-		"num": 65
-	},
-	"volga": {
-		"num": 48
-	},
-	"toveri-mita-odotat": {
-		"num": 21
-	},
-	"koyhaliston-marssi": {
-		"num": 22
-	},
-	"working-class-hero": {
-		"num": 45
-	},
-	"ken-saro-wiva-on-kuollut": {
-		"num": 46
-	},
-	"loldiers-anthem": {
-		"num": 38
-	},
-	"haistakaa-paska-koko-valtiovalta": {
-		"num": 39
-	},
-	"esko-kulonen": {
-		"num": 10
-	},
-	"nalkamaan-laulu": {
-		"num": 50
-	},
-	"kolme-pikku-miesta":{
-		"num": 51
-	},
-	"juo-kaljas-laulellen": {
-		"num": 52
-	},
-	"helsinki-shangri-la": {
-		"num": 53
-	}
+    "jaahyvaiset-aseille": {
+        "num": 16
+    },
+    "rahan-takii": {
+        "num": 59
+    },
+    "sinua-sinua-rakastan": {
+        "num": 22
+    },
+    "united-fruit": {
+        "num": 157
+    },
+    "tango-fasismin-ja-kapitalismin-suhteesta": {
+        "num": 156
+    },
+    "savolainen-balladi": {
+        "num": 155
+    },
+    "veli-sisko": {
+        "num": 154
+    },
+    "kenen-joukoissa-seisot": {
+        "num": "26"
+    },
+    "oppimisen-ylistys": {
+        "num": "2"
+    },
+    "riistajan-lait": {
+        "num": "28"
+    },
+    "kalliolle-kukkulalle": {
+        "num": "18"
+    },
+    "balladi-toveri-viljasesta": {
+        "num": "6"
+    },
+    "vapaa-venaja": {
+        "num": "35"
+    },
+    "kolme-pikku-assaa": {
+        "num": "60"
+    },
+    "suomi-myyntiin": {
+        "num": 125
+    },
+    "kansainvalinen": {
+        "num": "1"
+    },
+    "the-internationale": {
+        "num": 102
+    },
+    "punakaartin-marssi": {
+        "num": "40"
+    },
+    "nuorison-marssi": {
+        "num": "62"
+    },
+    "kisallittaret": {
+        "num": "34"
+    },
+    "allendelle": {
+        "num": "7"
+    },
+    "bella-ciao": {
+        "num": "25"
+    },
+    "oikeuden-jumalatar": {
+        "num": 130
+    },
+    "partisaanimarssi": {
+        "num": "38"
+    },
+    "natalia": {
+        "num": "8"
+    },
+    "nuoruustango": {
+        "num": "19"
+    },
+    "hasta-siempre-comandante": {
+        "num": "4"
+    },
+    "jos-rakastat": {
+        "num": "23"
+    },
+    "uralin-pihlaja": {
+        "num": "21"
+    },
+    "varrella-virran": {
+        "num": 144
+    },
+    "mina-soitan-harmonikkaa": {
+        "num": 159
+    },
+    "mina-suojelen-sinua-kaikelta": {
+        "num": "51"
+    },
+    "lenin-seta-asuu-venajalla": {
+        "num": 160
+    },
+    "sikajuna-brysseliin": {
+        "num": "29"
+    },
+    "warshawjanka": {
+        "num": "39"
+    },
+    "partisaanivalssi": {
+        "num": "17"
+    },
+    "herrojen-kanssa-pellon-laidassa": {
+        "num": 161
+    },
+    "laulu-siirtotyolaisesta": {
+        "num": "5"
+    },
+    "taistojen-tiella": {
+        "num": 120
+    },
+    "wir-sind-uberall": {
+        "num": 162
+    },
+    "solidarity-forever": {
+        "num": "46"
+    },
+    "oodi-vihervasemmistolaisuudelle": {
+        "num": 134
+    },
+    "syntymapaivalaulu": {
+        "num": 135
+    },
+    "vapauden-kaiho": {
+        "num": "36"
+    },
+    "se-erityinen-tyowaen-risteily-kappale": {
+        "num": 137
+    },
+    "aqua-vera": {
+        "num": 163
+    },
+    "ranskassa-juodaan-viinia": {
+        "num": 164
+    },
+    "vivassa-juodaan-kiljua": {
+        "num": 136
+    },
+    "pikku-kakkosen-posti": {
+        "num": 132
+    },
+    "rivakka-turkulainen-juomalaulu": {
+        "num": 133
+    },
+    "ken-ompi-fuksi": {
+        "num": 131
+    },
+    "ylos-punakapina-ja-alas-hallitus": {
+        "num": 126
+    },
+    "nuoriso-valmis-on-maistelemaan": {
+        "num": 127
+    },
+    "nalkaisen-vegaanin-taisteluhuuto": {
+        "num": 128
+    },
+    "valkoinen-cis-heteromies": {
+        "num": "60"
+    },
+    "ampukaa-komissaarit": {
+        "num": "50"
+    },
+    "volga": {
+        "num": 148
+    },
+    "toveri-mita-odotat": {
+        "num": "31"
+    },
+    "koyhaliston-marssi": {
+        "num": "41"
+    },
+    "working-class-hero": {
+        "num": 145
+    },
+    "ken-saro-wiva-on-kuollut": {
+        "num": 146
+    },
+    "loldiers-anthem": {
+        "num": 53
+    },
+    "haistakaa-paska-koko-valtiovalta": {
+        "num": 139
+    },
+    "esko-kulonen": {
+        "num": "9"
+    },
+    "nalkamaan-laulu": {
+        "num": 150
+    },
+    "kolme-pikku-miesta": {
+        "num": "27"
+    },
+    "juo-kaljas-laulellen": {
+        "num": 152
+    },
+    "helsinki-shangri-la": {
+        "num": 153
+    }
 }
