@@ -1,11 +1,25 @@
-Jalankulkijat juoskoon, astukoon lätäköihin, kiiltäköön asfaltti vetinen
-Eihän tietää voi kansa joka märkänä kulkee miksi oon tänään niin iloinen
+Jalankulkijat juoskoot,
+astukoot lätäköihin,
+Kiiltäköön asfaltti vetinen
 
-Minä soitan harmonikkaa, ihmiset on kummissaan
-voisin viettää juhlapäivää jälleen huomenna!
+Eihän tietää voi kansa,
+joka märkänä kulkee,
+Miksi oon tänään niin iloinen
 
-Helikopteri lentää, siinä taikuri saapuu näyttää ilmaiseksi filmejä.
-Hyvää syntymäpäivää mulle toivottaa hän ja lahjoittaa viisisataa jätskiä
+Minä soitan harmonikkaa,
+Ihmiset on kummissaan
+Voisin viettää juhlapäivää
+Jälleen huomenna
 
-Minä soitan harmonikkaa, ihmiset on kummissaan
-voisin viettää juhlapäivää jälleen huomenna!
+Helikopteri lentää,
+siinä taikuri saapuu,
+Näyttää ilmaiseksi filmejä
+Hyvää syntymäpäivää
+mulle toivottaa hän
+Ja lahjoittaa
+viisisataa jätskiä
+
+Minä soitan harmonikkaa...
+
+Voisin viettää juhlapäivää
+Jälleen huomenna

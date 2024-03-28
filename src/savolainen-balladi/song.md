@@ -1,14 +1,16 @@
 Pankinjohtaja Jääskeläinen Pohjois-Savosta,
 Päätti ostaa rantapalstan ja perustaa huvilan.
 Kun ihminen on johtaja eikä omista huvilaa,
-Se on melkein niin kuin pastori ilman upseerin arvoa.
+Se on melkein niin kuin
+pastori ilman upseerin arvoa.
 
 Hän valitsi lahdenpoukaman ja kallioniemekkeen,
 Jonka omisti muuan veteraani Veikko Tiihonen.
 Kun Jääskeläinen Tiihoselle kauppaa ehdotti.
 Se raivostui ja käski hänen suksia helvettiin.
 
-Pankinjohtaja Jääskeläinen juoksi valittamaan pankinjohtaja
+Pankinjohtaja Jääskeläinen
+juoksi valittamaan pankinjohtaja
 Jalkaselle huonoa onneaan.
 Pankinjohtaja Jalkanen oli Metsäliiton mies,
 Joka osti puuta itseltään ja kaikki temput ties.
@@ -16,19 +18,23 @@ Joka osti puuta itseltään ja kaikki temput ties.
 Äläpäs huoli Jääskeläinen, sanoi Jalkanen.
 Tiihosen tila on kiinnitetty meiän pankille,
 Pankki myö mehtän sinulle ja sinä myöt sen minulle
-Ja minä poika myön sen Mehtäliitolle harvennushakkuuseen.
+Ja minä poika myön sen
+Mehtäliitolle harvennushakkuuseen.
 
 Kaupanpäälliseksi saat sen niemen ja poukaman,
-Jossa kaislat huojuu ja laskeva aarinko kaaniisti ruskottaa.
+Jossa kaislat huojuu
+ja laskeva aarinko kaaniisti ruskottaa.
 Sen kunniaksi ryypättiin ja sammui Jalkanen.
 Ja vihdoin sammui Jääskeläinen kylpyhuoneeseen.
 
 Niin Tiihos-Veikon pankkivelka irtisanotaan ja
 Veikko huomaa olevansa puilla paljailla.
 Siihen päättyi isännyys sen Veikko Tiihosen,
-Se veneensä otti ja katosi sitten pyssyineen, koirineen.
+Se veneensä otti
+ja katosi sitten pyssyineen, koirineen.
 
-Ei jäänyt pystyyn puutakaan, kun kaikki hakattiin ja pöllit vietiin
+Ei jäänyt pystyyn puutakaan,
+kun kaikki hakattiin ja pöllit vietiin
 Metsäliiton sellutehtaisiin.
 Pankinjohtaja Jääskeläisen hirsimajalla rapuja
 Syödään ja ryypätään ja lausutaan runoja.
