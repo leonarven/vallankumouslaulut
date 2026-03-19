@@ -202,5 +202,59 @@
     },
     "helsinki-shangri-la": {
         "num": 153
+    },
+
+
+    "olen-kommunisti": {
+        "source": "https://lyricstranslate.com/en/agit-prop-olen-kommunisti-lyrics.html",
+        "num": 165 
+    },
+    "sina-tiedat-luokkasi-lait": {
+        "source": "https://lyricstranslate.com/en/agit-prop-sina-tiedat-luokkasi-lait-lyrics.html",
+        "num": 166 
+    },
+    "sirpa": {
+        "source": "https://genius.com/Arttu-wiskari-sirpa-lyrics",
+        "num": 167
+    },
+    "paskaa-lapsille": {
+        "source": "https://genius.com/Leevi-and-the-leavings-paskaa-lapsille-lyrics",
+        "num": 168
+    },
+    "leve-palestiina-vapaa-palestiina": {
+        "source": "https://punalippu.org/2024/09/21/kofia-leve-palestina-suomenkieliset-sanat/",
+        "num": 169
+    },
+    "olen-matkalla-kaatamaan-patsaita": {
+        "source": "https://genius.com/Lyyti-olen-matkalla-kaatamaan-patsaita-lyrics",
+        "num": 170
+    },
+    "sina-lahdit-pois": {
+        "source": "https://genius.com/Ultra-bra-sina-lahdit-pois-lyrics",
+        "num": 171
+    },
+    "rahaa-rahaa-rahaa": {
+        "source": "https://genius.com/Virve-rosti-rahaa-rahaa-rahaa-money-money-money-lyrics",
+        "num": 172
+    },
+    "barrikadimarssi": {
+        "source": "https://www.antiwarsongs.org/canzone.php?id=64015&lang=en",
+        "num": 173
+    },
+    "minulla-on-ystava": {
+        "source": "https://lyricstranslate.com/en/arvo-turtiainen-minulla-ystava-lyrics.html",
+        "num": 174
+    },
+    "solidaarisuutta-aina": {
+        "source": "https://tyovaenlaulut.net/2021/05/16/solidaarisuutta-aina/",
+        "num": 175
+    },
+    "toverit-heratkaa": {
+        "source": "https://lyricstranslate.com/en/kaisa-korhonen-toverit-her%C3%A4tk%C3%A4%C3%A4-lyrics.html",
+        "num": 176
+    },
+    "yhteisrintama": {
+        "source": "https://lyricstranslate.com/en/%C3%A5ttopojat-yhteisrintama-lyrics.html",
+        "num": 177
     }
 }

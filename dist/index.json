@@ -479,6 +479,98 @@
         "num": 153,
         "title": "Helsinki Shangri-La",
         "author": null,
+        "source": "https://genius.com/Paleface-helsinki-shangri-la-lyrics",
         "song_file": "helsinki-shangri-la.html"
+    },
+    "olen-kommunisti": {
+        "source": "https://lyricstranslate.com/en/agit-prop-olen-kommunisti-lyrics.html",
+        "num": 165,
+        "title": "Olen kommunisti",
+        "author": "Agit-Prop",
+        "song_file": "olen-kommunisti.html"
+    },
+    "sina-tiedat-luokkasi-lait": {
+        "source": "https://lyricstranslate.com/en/agit-prop-sina-tiedat-luokkasi-lait-lyrics.html",
+        "num": 166,
+        "title": "Sin\u00e4 tied\u00e4t luokkasi lait",
+        "author": "Agit-Prop",
+        "song_file": "sina-tiedat-luokkasi-lait.html"
+    },
+    "sirpa": {
+        "source": "https://genius.com/Arttu-wiskari-sirpa-lyrics",
+        "num": 167,
+        "title": "Sirpa",
+        "author": "Arttu Wiskari",
+        "song_file": "sirpa.html"
+    },
+    "paskaa-lapsille": {
+        "source": "https://genius.com/Leevi-and-the-leavings-paskaa-lapsille-lyrics",
+        "num": 168,
+        "title": "Paskaa lapsille",
+        "author": "Leevi & the Leavings",
+        "song_file": "paskaa-lapsille.html"
+    },
+    "leve-palestiina-vapaa-palestiina": {
+        "source": "https://punalippu.org/2024/09/21/kofia-leve-palestina-suomenkieliset-sanat/",
+        "num": 169,
+        "title": "Vapaa palestiina",
+        "author": "Kofia",
+        "song_file": "leve-palestiina-vapaa-palestiina.html"
+    },
+    "olen-matkalla-kaatamaan-patsaita": {
+        "source": "https://genius.com/Lyyti-olen-matkalla-kaatamaan-patsaita-lyrics",
+        "num": 170,
+        "title": "Olen matkalla kaatamaan patsaita",
+        "author": "Lyyti",
+        "song_file": "olen-matkalla-kaatamaan-patsaita.html"
+    },
+    "sina-lahdit-pois": {
+        "source": "https://genius.com/Ultra-bra-sina-lahdit-pois-lyrics",
+        "num": 171,
+        "title": "Sin\u00e4 l\u00e4hdit pois",
+        "author": "Ultra Bra",
+        "song_file": "sina-lahdit-pois.html"
+    },
+    "rahaa-rahaa-rahaa": {
+        "source": "https://genius.com/Virve-rosti-rahaa-rahaa-rahaa-money-money-money-lyrics",
+        "num": 172,
+        "title": "Rahaa, rahaa, rahaa",
+        "author": "Virve Rosti",
+        "song_file": "rahaa-rahaa-rahaa.html"
+    },
+    "barrikadimarssi": {
+        "source": "https://www.antiwarsongs.org/canzone.php?id=64015&lang=en",
+        "num": 173,
+        "title": "Barrikadimarssi",
+        "author": null,
+        "song_file": "barrikadimarssi.html"
+    },
+    "minulla-on-ystava": {
+        "source": "https://lyricstranslate.com/en/arvo-turtiainen-minulla-ystava-lyrics.html",
+        "num": 174,
+        "title": "Minulla on yst\u00e4v\u00e4",
+        "author": "Arvo Turtiainen",
+        "song_file": "minulla-on-ystava.html"
+    },
+    "solidaarisuutta-aina": {
+        "source": "https://tyovaenlaulut.net/2021/05/16/solidaarisuutta-aina/",
+        "num": 175,
+        "title": "Solidaarisuutta aina",
+        "author": null,
+        "song_file": "solidaarisuutta-aina.html"
+    },
+    "toverit-heratkaa": {
+        "source": "https://lyricstranslate.com/en/kaisa-korhonen-toverit-her%C3%A4tk%C3%A4%C3%A4-lyrics.html",
+        "num": 176,
+        "title": "Toverit her\u00e4tk\u00e4\u00e4",
+        "author": "Kaisa Korhonen",
+        "song_file": "toverit-heratkaa.html"
+    },
+    "yhteisrintama": {
+        "source": "https://lyricstranslate.com/en/%C3%A5ttopojat-yhteisrintama-lyrics.html",
+        "num": 177,
+        "title": "Yhteisrintama",
+        "author": "\u00c4\u00e4reopojat",
+        "song_file": "yhteisrintama.html"
     }
 }
