@@ -1,9 +1,11 @@
 
-# Vaatimukset
-python3
-
 # Käyttö
-`python3 build.py`
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python build.py
+```
 
 # Muokkaus
 `./src/` sisältää `song.key`n perusteella nimetyt kansiot lauluille. Kansiossa on laulun sanat tiedostossa `song.*` sekä mahdollisesti `meta.json`, jossa määritellään laulun tiedot.
